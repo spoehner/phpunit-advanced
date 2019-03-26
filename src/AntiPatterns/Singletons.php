@@ -11,10 +11,7 @@ class Singletons
 	{
 	}
 
-	/**
-	 * @return self
-	 */
-	public static function getInstance()
+	public static function getInstance(): self
 	{
 		if (self::$instance === null) {
 			self::$instance = new self();
@@ -29,6 +26,7 @@ class SingletonsTest extends TestCase
 	public function setUp(): void
 	{
 		parent::setUp();
+
 		/*
 		 * Vor jedem Test löschen wir die Instanz
 		 */
