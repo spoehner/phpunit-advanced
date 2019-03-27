@@ -1,0 +1,88 @@
+{
+  "id": "4018",
+  "name": "Rosso",
+  "phoneNumber": "+390664420656",
+  "currency": "EUR",
+  "timezone": "Europe/Berlin",
+  "bookable": true,
+  "openingTimes": {},
+  "location": {
+    "address": {
+      "street": "konrad-wolf-str 62d",
+      "number": "tet",
+      "city": "Berlin",
+      "zipcode": "13055",
+      "country": "DEU"
+    },
+    "coordinates": {
+      "latitude": 41.880306,
+      "longitude": 12.486906
+    }
+  },
+  "tagGroups": [
+    {
+      "type": "CUISINE",
+      "tags": [
+        {
+          "id": 63,
+          "name": "Ramen"
+        },
+        {
+          "id": 63,
+          "name": "Senegalesisch"
+        },
+        {
+          "id": 63,
+          "name": "Live-Music"
+        }
+      ]
+    },
+    {
+      "type": "PRICE",
+      "tags": [
+        {
+          "id": 111
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "url": "https://dci5ez2ey8tr9.cloudfront.net/056577cc-42e5-40b9-9831-b9815bbacfa6/13737_sld.jpg"
+    },
+    {
+      "url": "https://dci5ez2ey8tr9.cloudfront.net/056577cc-42e5-40b9-9831-b9815bbacfa6/25128_sld.jpg"
+    },
+    {
+      "url": "https://dci5ez2ey8tr9.cloudfront.net/056577cc-42e5-40b9-9831-b9815bbacfa6/25127_sld.jpg"
+    },
+    {
+      "url": "https://dci5ez2ey8tr9.cloudfront.net/056577cc-42e5-40b9-9831-b9815bbacfa6/25126_sld.jpg"
+    },
+    {
+      "url": "https://dci5ez2ey8tr9.cloudfront.net/056577cc-42e5-40b9-9831-b9815bbacfa6/13738_sld.jpg"
+    },
+    {
+      "url": "https://dci5ez2ey8tr9.cloudfront.net/056577cc-42e5-40b9-9831-b9815bbacfa6/25129_sld.jpg"
+    }
+  ],
+  "documents": [],
+  "links": [
+    {
+      "href": "https://test-www.quandoo.de/place/rosso-4018",
+      "rel": "details",
+      "method": "GET"
+    },
+    {
+      "href": "https://test-widget.quandoo.co.uk/widget/reservation/merchant/G9nSQ?&countryId=GBR",
+      "rel": "widget",
+      "method": "GET"
+    },
+    {
+      "href": "https://test-widget.quandoo.co.uk/widget/reservation/merchant/G9nSQ/details?&countryId=GBR",
+      "rel": "widget.details",
+      "method": "GET"
+    }
+  ],
+  "locale": "de_DE"
+}
